@@ -1,1 +1,1 @@
-My first readme
+Prhramming in shell is awesome
