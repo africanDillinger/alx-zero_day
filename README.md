@@ -1,1 +1,1 @@
-Programming in shell is awesome and being an alx student
+Programming in shell is awesome 
