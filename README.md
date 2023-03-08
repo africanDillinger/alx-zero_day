@@ -1,1 +1,1 @@
-Programming in shell is awesome 
+Programming is awesome 
